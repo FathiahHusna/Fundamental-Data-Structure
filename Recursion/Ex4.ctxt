@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ex4
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ex4\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ DEC2016\r\n
+comment1.params=n
+comment1.target=java.lang.String\ kita(int)
+comment2.params=n
+comment2.target=int\ S(int)
+numComments=3

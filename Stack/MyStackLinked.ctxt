@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MyStackLinked
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyStackLinked\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyStackLinked()
+comment2.params=
+comment2.target=boolean\ emptyStack()
+comment3.params=
+comment3.target=boolean\ fullStack()
+comment4.params=
+comment4.target=java.lang.Object\ top()
+comment5.params=item
+comment5.target=void\ push(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.Object\ pop()
+comment7.params=
+comment7.target=void\ displayStack()
+numComments=8

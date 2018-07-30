@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ex1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ex1\ here.\r\n\ Calculate\ sum\ of\ squares\r\n\ Sum\ of\ squares\ (m,n)\ \=\ m2\ +\ (m+1)2\ +\ (m+2)2\ +\ \u2026\ +\ n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\r\n\ Jan2018\r\n
+comment1.params=m\ n
+comment1.target=int\ ss(int,\ int)
+comment2.params=x\ y
+comment2.target=int\ Fathiahss(int,\ int)
+numComments=3

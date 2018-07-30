@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MyQueue
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyQueue\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyQueue()
+comment2.params=item
+comment2.target=void\ enQueue(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ deQueue()
+comment4.params=
+comment4.target=boolean\ isEmpty2()
+comment5.params=
+comment5.target=java.lang.Object\ isFull()
+comment6.params=
+comment6.target=java.lang.Object\ getFront()
+comment7.params=
+comment7.target=java.lang.Object\ getRear()
+numComments=8
